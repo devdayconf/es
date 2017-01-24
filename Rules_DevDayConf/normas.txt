@@ -30,7 +30,7 @@ Reglas del evento:
 
 -> Altavoces <-
 - La aplicación de conferencias se hará por un Call4Papers y será elegido por elección de los organizadores.
-- La elección debe apreciar numerosos asuntos y cuestiones palestas y evitar la repetición de tales lenguajes y / o herramientas de programación.
+- La elección debe apreciar numerosos asuntos y cuestiones charlas y evitar la repetición de tales lenguajes y / o herramientas de programación.
 - La elección también debe tener en cuenta los niveles, por lo que el programa debe contener contenidos básicos e intermedios. Al no ser prohibidos contenido avanzado, pero no son adecuados para el tipo de evento.
 - El altavoz podría ganar por evento gratuito camiseta y regalos distribuidos en el evento.
 
