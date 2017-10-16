@@ -16,9 +16,9 @@ permalink: /creador/
 
 <br>
 <li>Orador en Euro Python 2016</li>
+<li>Orador en Pycon Argentina 2016</li>
 <li>Keynote en Python Brasil 2017</li>
 
-<li>Creador +Con Conference </li>
 
 <li><a href="https://www.youtube.com/pkpacheco">Canal de Youtube con tutoriales de Django</a></li>
 <li><a href="about.me/pkcpweb">about.me/pkcpweb</a></li>
