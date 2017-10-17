@@ -1,10 +1,10 @@
 # Política anti-assédio
 
-Temos uma política oficial contra o assédio de eventos e atividades da Conferência DevDay.
+Temos uma política oficial contra o assédio de eventos e atividades da Conferência +Con.
 
 ##Objetivo
 
-A Conferência DevDay é dedicada a fornecer um evento gratuito para todos e sem assédio.
+A Conferência +Con é dedicada a fornecer um evento gratuito para todos e sem assédio.
 Apreciamos um evento para todos, independentemente de:
 Gênero
 - Orientação Sexual
@@ -47,7 +47,7 @@ A organização tomará as medidas adequadas com aqueles que a perseguiram e pod
 Todos, incluindo parceiros, expositores, palestrantes e convidados, também estão sujeitos à política anti-assédio.
 
 
-Contato: devdayconf@gmail.com
+Contato: masconferencia@gmail.com
 
 Embora esperemos que nunca tenhamos de invocar esta política, acreditamos que ter este documento ajuda a todos a pensar um pouco mais sobre como suas ações e palavras afetam toda a comunidade, bem como os indivíduos na comunidade.
 

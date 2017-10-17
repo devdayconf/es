@@ -1,4 +1,4 @@
-DevDay is a free event where the goal is to bring together people who work with technology. From a student, someone who has an interest in technology, to an expert.
++Con is a free event where the goal is to bring together people who work with technology. From a student, someone who has an interest in technology, to an expert.
 Our goal is to make even an expert access to basic content of something you do not know.
 With the event, we aim to get companies in the city to connect with people and connect people to each other, creating future meetings for interaction.
 
@@ -8,8 +8,6 @@ Event Rules:
 
 - The event must be done in just 1 day with the amount of tracks that the organization deems necessary.
 - All tracks must follow the time pattern. Example: 14:00 - 15:30 Workshop, ie all rooms must have the same schedule according to the schedules.
-- Event Layout will be provided by DevDay Conf.
-- To request the event in your city just ask in the form.
 
 -> Tickets, T-shirts and Expenses <-
 - The event must be free.

@@ -1,10 +1,10 @@
 Política contra el acoso
 
-Tenemos una política oficial contra el acoso de los eventos y actividades de la Conferencia DevDay.
+Tenemos una política oficial contra el acoso de los eventos y actividades de la Conferencia +Con.
 
 ##Gol
 
-La Conferencia de DevDay se dedica a proporcionar un evento gratuito para todos y sin acoso.
+La Conferencia +Con se dedica a proporcionar un evento gratuito para todos y sin acoso.
 Apreciamos un evento para todos, independientemente de:
 Género
 - Orientación Sexual
@@ -47,7 +47,7 @@ La organización tomará las medidas apropiadas con quienes la han acosado y pod
 Todos, incluidos socios, expositores, oradores e invitados, también están sujetos a la política contra el acoso.
 
 
-Contacto: devdayconf@gmail.com
+Contacto: masconferencia@gmail.com
 
 Aunque esperamos que nunca tengamos que invocar esta política, creemos que tener este documento ayuda a todos a pensar un poco más acerca de cómo sus acciones y palabras afectan a toda la comunidad, así como a los individuos de la comunidad.
 

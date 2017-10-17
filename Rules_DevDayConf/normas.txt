@@ -1,4 +1,4 @@
-DevDay es un evento gratuito donde el objetivo es unir a las personas que trabajan con la tecnología. A partir de un estudiante, alguien que está interesado en tecnología para un experto.
++Con es un evento gratuito donde el objetivo es unir a las personas que trabajan con la tecnología. A partir de un estudiante, alguien que está interesado en tecnología para un experto.
 Nuestro objetivo es hacer que incluso un experto tiene acceso a un contenido básico de algo que no conoce.
 Con este evento, nuestro objetivo es conseguir con que las empresas de la ciudad para conectar con la gente y la gente a conectarse unos con otros, la creación de futuras reuniones para la interacción.
 
@@ -7,27 +7,24 @@ Reglas del evento:
 -> Evento <-
 
 - El evento se llevará a cabo en un solo día con la cantidad de pistas que se considere necesaria la organización.
-- Todas las pistas deben seguir el horario estándar. Ejemplo: 14:00-15:30 taller, es decir, todas las habitaciones debe tener el mismo horario de acuerdo con los horarios.
-- El evento será donado por el diseño DevDay Conf.
-- Para ordenar el evento en tu ciudad sólo hay que preguntar en el formulario.
+- Todas las tracks deben seguir el horario estándar. Ejemplo: 14:00-15:30 taller, es decir, todas las habitaciones debe tener el mismo horario de acuerdo con los horarios.
 
--> Unir, T-Gasto <-
-- El evento obligatoriamente debe ser libre.
-- El evento se permitirá la entrada de una donación. (E-waste, comida, etc.)
+-> Remeras, Gasto <-
+- El evento obligatoriamente debe ser gratis.
+- El evento se permitirá la entrada de una donación. (arroz, leche en polvo, otros.)
 - El tipo de donación es a discreción de la organización.
 - Si no puede patrocinio suficiente, puede cargar la camisa del evento y cualquier tipo de comida.
 
 
 -> Open Source Project <-
-- Debe haber un formulario de inscripción para projetosOpen Fuente.
+- Debe haber un formulario de inscripción para projetos Open Source.
 - Tiene que haber una forma de votación de proyectos de código abierto, que serán efectuadas por los participantes del evento.
 - El voto debe estar abierto al público.
-- El diseño registrado debe ser parte del país de la prueba.
-- El evento puede abrir una campaña de donación de la cantidad recogida será donado al proyecto Mejor Open Source.
-- El proyecto ganador (o la primera) ha sufrido derecho a hablar.
+- El proyecto  debe ser parte del país de lo evento.
+- El proyecto ganador (o los primeros) tienen derecho a una talk.
 
 
--> Altavoces <-
+-> Oradores <-
 - El registro de conferencias se llevará a cabo por un Call4Papers y será elegido por elección de los organizadores.
 - La elección debe apreciar numerosos asuntos y cuestiones palestas y evitar la repetición de tales lenguajes y / o herramientas de programación.
 - La elección también debe tener en cuenta los niveles, por lo que el programa debe contener contenidos básicos e intermedios. Al no ser prohibidos contenido avanzado, pero no son adecuados para el tipo de evento.

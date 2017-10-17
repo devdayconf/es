@@ -1,11 +1,11 @@
 
 # Anti-harassment policy
 
-We have an official policy against the harassment of events and activities of DevDay Conference.
+We have an official policy against the harassment of events and activities of +Con Conference.
 
 ##Goal
 
-The DevDay Conference is dedicated to providing a free event for all and without harassment.
+The +Con Conference is dedicated to providing a free event for all and without harassment.
 We cherish an event for everyone regardless of:
 - genre
 - Sexual Orientation
@@ -48,7 +48,7 @@ The organization will take appropriate measures with those who have harassed it 
 All, including partners, exhibitors, speakers and guests are also subject to the anti-harassment policy.
 
 
-Contact: devdayconf@gmail.com
+Contact: masconferencia@gmail.com
 
 While we hope that we never have to invoke this policy, we believe that having this document helps everyone to think a bit more about how their actions and words affect the entire community as well as the individuals in the community.
 
