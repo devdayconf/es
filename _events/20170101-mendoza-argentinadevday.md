@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Argentina DevDay 2017
+title: Argentina DevDay 2017 - Mendoza
 img: /img/events/argentinadevday.jpg
 url: /argentinadevday/
 attendees: 0
